@@ -6,6 +6,6 @@ Note
 ------
 Sender need a Full XRP wallet (address + secret). 
 
-Most exchange wallet gived you only address and destination tag.
+Most exchange wallet give you only address and destination tag.
 
 (I used bithomp.com for send XRP.)
