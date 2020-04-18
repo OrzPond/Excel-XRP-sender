@@ -1,0 +1,16 @@
+{
+  "name": "xrpsender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ripple-lib": "^1.5.0",
+    "xlsx": "^0.15.4"
+  }
+}
